@@ -2,7 +2,7 @@
 
 | Field | Value |
 | --- | --- |
-| Document ID | DC-IR-RB-002 |
+| Document ID | DC-IR-RB-001 |
 | Author | Samim Hakimi |
 | Version | 1.0 |
 | Framework | NIST SP 800-61 (Preparation, Detection and Analysis, Containment/Eradication/Recovery, Post-Incident) |
